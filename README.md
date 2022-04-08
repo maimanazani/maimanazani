@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi%20there&type=waving&color=gradient&height=300&section=header&fontSize=90&animation=scaleIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?text=Hi%20there&type=waving&color=0:a40606,100:d98324&height=300&section=header&fontSize=90&animation=scaleIn&fontColor=ffffff)
 - **I'm Aiman 👋**
 - Currently working on Flutter and NextJS project
 

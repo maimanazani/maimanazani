@@ -20,7 +20,7 @@
 
 **Mobile Application Frameworks:**
 
-[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android.svg' alt='android' height='50' width='50'  >](https://developer.android.com/studio) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cordova.svg' alt='cordova' height='50' width='50'>](https://cordova.apache.org/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg' alt='flutter' height='50' width='50'>](https://flutter.dev/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framework7-icon.svg' alt='framework7' height='50' width='50'>](https://framework7.io/)   
+[<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android.svg' alt='android' height='50' width='50'  >](https://developer.android.com/studio) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/xcode.svg' alt='xcode' height='50' width='50'  >](https://developer.apple.com/xcode/)  [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cordova.svg' alt='cordova' height='50' width='50'>](https://cordova.apache.org/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg' alt='flutter' height='50' width='50'>](https://flutter.dev/) [<img src='https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framework7-icon.svg' alt='framework7' height='50' width='50'>](https://framework7.io/)   
 
 **Web Application Frameworks:**
 

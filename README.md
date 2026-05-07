@@ -9,9 +9,9 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maimanazani&theme=github" alt="Aiman's GitHub Profile Summary"/>
 </p>
 
-<p>
-  <img align="center" src="https://github.com/maimanazani/github-stats/blob/master/generated/overview.svg">
-  <img align="center" src="https://github.com/maimanazani/github-stats/blob/master/generated/languages.svg">
+<p align="center">
+  <img width="49%" src="https://github.com/maimanazani/github-stats/blob/master/generated/overview.svg" alt="Overview stats"/>
+  <img width="49%" src="https://github.com/maimanazani/github-stats/blob/master/generated/languages.svg" alt="Languages stats"/>
 </p>
 
 <hr/>

@@ -5,53 +5,79 @@
 
 <img align="center" src="https://komarev.com/ghpvc/?username=maimanazani&style=for-the-badge">
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maimanazani&theme=github" alt="Aiman's GitHub Profile Summary"/>
+</p>
+
 <p>
   <img align="center" src="https://github.com/maimanazani/github-stats/blob/master/generated/overview.svg">
   <img align="center" src="https://github.com/maimanazani/github-stats/blob/master/generated/languages.svg">
 </p>
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+<hr/>
 
-**Languages:**
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,dart" />
-</p>
-
-**CSS Frameworks:**
+**Languages:** PHP, JavaScript (ES6+), TypeScript, Dart, Java, Kotlin, Python (FastAPI), SQL
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,dart,java,kotlin,python" />
 </p>
 
-**Mobile Application Frameworks:**
+**Web Frameworks:** Laravel, Next.js, React, Node.js (Express/Apollo), Lumen, Bootstrap, Tailwind CSS
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,xcode,flutter" />
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs,express,bootstrap,tailwind" />
 </p>
 
-**Web Application Frameworks:**
+**App Frameworks:** Flutter (Provider/Bloc), React Native, Android SDK (Native), Cordova, Framework7
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,kotlin" />
 </p>
 
-**Databases:**
+**Databases:** PostgreSQL, MySQL, Cloud Firestore, Oracle DB, MSSQL, Qdrant (Vector DB), Redis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis" />
 </p>
 
-**Servers:**
+**API & Comms:** RESTful APIs, GraphQL (Apollo), WebSockets (Real-time), Webhooks, gRPC
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,firebase" />
+  <img src="https://skillicons.dev/icons?i=postman,graphql,apollo" />
 </p>
 
-**Tools and Services:**
+**AI & ML:** RAG, TensorFlow, Tesseract OCR, Google ML Kit, OpenAI API Integration
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,jira,graphql,apollo,webpack" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,py,openai" />
 </p>
+
+**Automation:** Telegram Bot API, Chrome Extension Development, IoT Hardware Integration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,raspberrypi" />
+</p>
+
+**CI/CD:** Docker, GitHub Actions, Coolify
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
+</p>
+
+**AWS Suite:** EC2, S3, Elastic Beanstalk, Load Balancers (ALB/NLB), RDS, Route53
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+**Server Mgmt:** Nginx, Apache, SSL Management, Cloudflare (CDN/WAF), Linux Server Administration
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nginx,apache,cloudflare,linux,ubuntu" />
+</p>
+
+<hr/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maimanazani)

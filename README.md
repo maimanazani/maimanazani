@@ -6,7 +6,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=maimanazani&style=for-the-badge">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maimanazani&theme=github" alt="Aiman's GitHub Profile Summary"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maimanazani&theme=github" alt="Aiman's GitHub Profile Summary"/>
 </p>
 
 <p>
